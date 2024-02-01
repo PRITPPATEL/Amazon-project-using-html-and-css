@@ -13,11 +13,13 @@
 }
 
 .nav-logo {
+  margin-top: 2px;
   height: 50px;
   width: 100px;
 }
+
 .logo {
-  background-image: url("image/logo.jpg");
+  background-image: url("image/amazon_logo.png");
   background-size: cover;
   height: 45px;
   width: 100%;
@@ -150,7 +152,7 @@ span {
 
 /* hero-setion */
 .hero-section{
-  background-image: url(image/1._CB583514833_.jpg);
+  background-image: url("image/1._CB583514833_.jpg");
   background-size: cover;
   height: 350px;
 }
@@ -245,7 +247,7 @@ ul a {
 }
 
 .logo{
-  background-image: url("image/logo.jpg");
+  background-image: url("image/amazon_logo.png");
   background-size: cover;
   height: 45px;
   width: 100px;
